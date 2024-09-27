@@ -63,7 +63,7 @@
 
 # Образование
 
-[<img src="certificate_ru.png" width="280px" hspace="10px" alt="Сертификат"](https://github.com/moxuq/moxuq/blob/main/certificate_ru.png)
+[<img src="[certificate_ru.png](https://github.com/moxuq/moxuq/blob/main/certificate_ru.png)" width="280px" hspace="10px" alt="Сертификат"](https://github.com/moxuq/moxuq/blob/main/certificate_ru.png)
 
 # Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wuquix)
