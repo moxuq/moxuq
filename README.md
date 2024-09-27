@@ -63,7 +63,7 @@
 
 # Образование
 
-
+<img src="moxuq\assets\sergej_gromov_certificate_139_hours_ru.jpg">
 
 # Контакт
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wuquix)
