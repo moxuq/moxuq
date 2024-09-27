@@ -59,4 +59,4 @@
 </div>
 
 # Контакт
-![Telegram](https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fwuquix)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
