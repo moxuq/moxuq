@@ -63,6 +63,19 @@
 
 ## 🏆 Featured Projects
 
+### 💳 Subscription Service API (curent project)
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**SaaS subscription management system** with payment integration, automated renewals, and background task scheduling.
+
+---
+
 ### 🔗 URL Shortener API
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
@@ -71,6 +84,18 @@
 </p>
 
 High-performance URL shortener with Redis caching, rate limiting (token bucket), and background analytics.
+
+---
+
+### 📝 Notes API
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**Secure REST API for personal notes management** with JWT authentication and user isolation.
 
 ---
 
