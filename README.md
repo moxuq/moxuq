@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend-7C3AED?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Level-Middle-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20hire-E11D48?style=for-the-badge&logo=briefcase" />
 </p>
 
 ---
@@ -72,19 +71,6 @@
 </p>
 
 High-performance URL shortener with Redis caching, rate limiting (token bucket), and background analytics.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moxuq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxuq&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moxuq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
-</p>
 
 ---
 
