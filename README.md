@@ -78,9 +78,9 @@
 
 ### 🔗 URL Shortener API
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rate%20Limiting-E11D48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rate%20Limiting-E11D48?style=flat-square&logoColor=white" />
 </p>
 
 High-performance URL shortener with Redis caching, rate limiting (token bucket), and background analytics.
