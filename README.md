@@ -79,7 +79,7 @@
 ### 🔗 URL Shortener API
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis%20Cache-DC382D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Rate%20Limiting-E11D48?style=for-the-badge" />
 </p>
 
@@ -102,8 +102,4 @@ High-performance URL shortener with Redis caching, rate limiting (token bucket),
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moxuq&style=for-the-badge&color=7C3AED" />
   <img src="https://img.shields.io/github/followers/moxuq?style=for-the-badge&color=7C3AED&label=Followers" />
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
