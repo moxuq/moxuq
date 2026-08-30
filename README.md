@@ -63,7 +63,7 @@
 
 ## 🏆 Featured Projects
 
-### 💳 Subscription Service API (current project)
+### 💳 Subscription Service API
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
