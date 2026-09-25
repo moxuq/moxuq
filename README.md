@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alembic-FF0000?style=flat-square&logo=alembic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-DC382D?style=flat-square&logo=alembic&logoColor=white" />
 </p>
 
 **SaaS subscription management system** with payment integration, automated renewals, and background task scheduling.
