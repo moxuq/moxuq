@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Subscription Service API**
+- 🔭 Currently working on **InstaLead API**
 - ⚡ Building scalable backends with **FastAPI + PostgreSQL + Redis**
 - 📦 Production-grade: **Celery • Alembic • Docker • JWT**
 - 🎯 Goal: Confident Middle → Fullstack 
